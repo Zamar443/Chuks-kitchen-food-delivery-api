@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  },
+  "name": "chuks-kitchen-food-delivery-api",
+  "version": "1.0.0",
+  "description": "Backend API for **Chuks Kitchen Food Ordering & Customer Management System**.",
+  "main": "server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zamar443/Chuks-kitchen-food-delivery-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zamar443/Chuks-kitchen-food-delivery-api/issues"
+  },
+  "homepage": "https://github.com/Zamar443/Chuks-kitchen-food-delivery-api#readme"
+}
